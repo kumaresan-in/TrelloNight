@@ -1,4 +1,4 @@
-﻿# TrelloNight for Chrome
+﻿#TrelloNight for Chrome
 
 <img src="images/preview.jpg" alt="img">
 
